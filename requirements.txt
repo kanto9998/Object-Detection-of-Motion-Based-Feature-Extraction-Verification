@@ -1,0 +1,7 @@
+작성예정
+
+torch
+torchvision
+ffmpeg-python
+opencv-python
+Pillow
